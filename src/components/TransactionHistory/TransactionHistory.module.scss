@@ -1,0 +1,10 @@
+.transactionHistory {
+  width: 600px;
+  background-color: #fff;
+  border-color: red;
+
+  & th {
+    background-color: #2fd2e7;
+    color: white;
+  }
+}
